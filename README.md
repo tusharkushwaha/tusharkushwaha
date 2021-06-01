@@ -6,7 +6,7 @@ Skills: REACT /  NODE JS/ MONGO DB/ EXPRESS JS/ NEXT JS/ MATERIAL UI/  BOOTSTRAP
 
 - 🔭 I’m currently working on NEXT.JS Authentication 
 - 🌱 I’m currently learning NEXT.JS and GRAPH QL 
-- 👯 I’m looking to collaborate on Open Source 
+- 👯 I’m looking to contibute in Open Source 
 - 📫 How to reach me: kushwahatushar4@gmail.com 
 
 
